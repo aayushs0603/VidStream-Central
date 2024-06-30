@@ -79,5 +79,5 @@ To get started with the VidStream-Central project locally, follow these steps:
 # Preview
 Check Out preview on Vidstream Central in action
 
-
+https://github.com/aayushs0603/VidStream-Central/assets/162009847/b11b47e9-d226-455b-b0f5-46b4ab73eba8
 
