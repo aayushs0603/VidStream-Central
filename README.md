@@ -92,5 +92,5 @@ https://github.com/aayushs0603/VidStream-Central/assets/162009847/b11b47e9-d226-
 ![Screenshot (15)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/bf212306-3444-4769-8b5b-4cf72f2f4d5d)
 ![Screenshot (17)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/3ec80180-7f19-4d06-ad33-943395564032)
 ![Screenshot (18)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/c6d18f25-399e-464b-901e-648efc8e9722)
-
+![Screenshot (19)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/38c72ec1-60f2-41b8-91b4-4e6285d95c0c)
 
