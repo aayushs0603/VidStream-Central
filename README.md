@@ -1,4 +1,4 @@
-# Vidstream Central
+![Screenshot (12)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/4c6b02c8-6472-4afc-81f4-914ddc6d5eaa)# Vidstream Central
 Welcome to Vidstream Central! This project is Designed to provide a Dynamic platform for browsing, playing and uploading videos with a focus on usability and performance.We hope you have a fantastic experience.
 # Getting Started
 To get started with the VidStream-Central project locally, follow these steps:
@@ -76,8 +76,21 @@ To get started with the VidStream-Central project locally, follow these steps:
   </ol>
 </li>
 
+
 # Preview
 Check Out preview on Vidstream Central in action
 
 https://github.com/aayushs0603/VidStream-Central/assets/162009847/b11b47e9-d226-455b-b0f5-46b4ab73eba8
+
+# Screenshots
+
+
+![Screenshot (12)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/9404d3c2-782d-4444-82b5-1691c614052d)
+![Screenshot (13)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/e200e592-dda7-485d-85ec-b3e6c3bee504)
+![Screenshot (16)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/a706c29c-4fa0-4e04-bbed-09126eace14d)
+![Screenshot (14)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/22dde206-eb7d-4e85-9604-b0945bd4837e)
+![Screenshot (15)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/bf212306-3444-4769-8b5b-4cf72f2f4d5d)
+![Screenshot (17)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/3ec80180-7f19-4d06-ad33-943395564032)
+![Screenshot (18)](https://github.com/aayushs0603/VidStream-Central/assets/162009847/c6d18f25-399e-464b-901e-648efc8e9722)
+
 
