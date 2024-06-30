@@ -25,7 +25,7 @@ To get started with the VidStream-Central project locally, follow these steps:
     Open file App.js, Open new terminal and write command node -v to check version of nodejs installed.
   </ol>
   <ol>
-   write command npm i react-router-dom react-responsive-carousel to import libraries in package.json.
+   write command npm install to import node modules
   </ol>
    <ol>
    write command npm start to start the website.
